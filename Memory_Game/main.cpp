@@ -1,3 +1,11 @@
+/*
+		Memory Game
+
+Name : Mansi Patel (200351242)
+	   Ramandeep Kaur (200353584)
+*/
+
+
 
 #include <iostream>
 #include<string>
